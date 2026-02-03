@@ -2,6 +2,6 @@ This repository shows our project made during our classe of IS Managment at the 
 
 
 Our group is composed of :
-Anna Liuba
-Maryna Kaliaieva
-Denys Falkovych
+* Anna Liuba
+* Maryna Kaliaieva
+* Denys Falkovych
